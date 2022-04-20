@@ -1,3 +1,4 @@
-- 👋 Oi, me chamo Bruno e tenho 27 anos. 
-Sou de Campinas/ SP
+- 👋 Oi, me chamo Bruno e tenho 27 anos 
+- 👨🏻‍🏫 Sou graduando de ciência da computação
+- 👨🏻‍💻 Faço estágio em TI. Trabalho com tecnologia embarcada
 - 🌱 Estou me aperfeiçoando em Front End.
